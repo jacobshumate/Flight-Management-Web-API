@@ -1,0 +1,9 @@
+﻿{
+  "AppSettings": {
+    "SiteEmailAddress": "me@gmail.com",
+    "BingKey": "Do not hard code keys in configuration"
+  },
+  "Data": {
+    "WorldContextConnection": "Server=(localdb)\\ProjectsV12;Database=TheWorldDB;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
